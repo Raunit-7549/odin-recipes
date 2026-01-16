@@ -7,4 +7,6 @@ This project is part of The Odin Project Foundation Course. The target was to bu
 * Displaying images using the `<img>` tag.
 * Using **unordered and ordered lists** for recipe details.
 
+# Website Link
+[Click here to view the project](https://raunit-7549.github.io/odin-recipes/)
 
