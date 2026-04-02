@@ -1,12 +1,22 @@
-# odin-recipes
-This project is part of The Odin Project Foundation Course. The target was to build a website using only HTML to fully understand the basics of web structure.
+# Recipe Website
 
-# Skills Learned
-* Structuring a multi-page website.
-* Working with **relative links** between pages.
-* Displaying images using the `<img>` tag.
-* Using **unordered and ordered lists** for recipe details.
+A simple multi-page recipe website built using HTML. This project demonstrates the fundamentals of structuring web pages and linking multiple pages together.
+
+# Features
+- Multiple recipe pages
+- Clean and organized structure
+- Navigation using relative links
+- Use of images and lists
+
+# Skills Used
+- HTML5
+- Page structuring
+- Relative linking
+- Lists and images
 
 # Website Link
 [Click here to view the project](https://raunit-7549.github.io/odin-recipes/)
+
+# About
+This project was created as part of my web development learning journey to practice building webpage layouts and improving styling skills.
 
