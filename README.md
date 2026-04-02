@@ -15,7 +15,7 @@ A simple multi-page recipe website built using HTML. This project demonstrates t
 - Lists and images
 
 # Website Link
-[Click here to view the project](https://raunit-7549.github.io/odin-recipes/)
+[Click here to view the project](https://raunit-7549.github.io/recipe-website/)
 
 # About
 This project was created as part of my web development learning journey to practice building webpage layouts and improving styling skills.
